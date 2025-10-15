@@ -14,9 +14,9 @@
 ### Using Homebrew (macOS/Linux)
 ```bash
 brew install bab-sh/tap/bab
-
-Using Scoop (Windows)
-
+``
+### Using Scoop (Windows)
+```bash
 scoop bucket add bab-sh https://github.com/bab-sh/scoop-bucket.git
 scoop install bab
 
