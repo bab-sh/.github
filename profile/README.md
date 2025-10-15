@@ -45,8 +45,7 @@
 
 <div align="center">
 
-[**Website**](https://bab.sh) • [**Docs**](https://docs.bab.sh) • [**Blog**](https://blog.bab.sh) • [**Discord
-**](https://discord.bab.sh)
+[**Website**](https://bab.sh) • [**Docs**](https://docs.bab.sh) • [**Blog**](https://blog.bab.sh) • [**Discord**](https://discord.bab.sh)
 
 </div>
 
