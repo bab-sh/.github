@@ -1,47 +1,29 @@
-# bab – Modern Dependency-Free Task Runner
+# bab – A Minimalist, Dependency-Free Task Runner
 
-**bab** is a modern, dependency-free task runner that simplifies development workflows. It can replace Makefiles and npm scripts with a universal solution suitable for both small scripts and complex task orchestration. With **bab**, your projects stay organized and maintainable.
+**bab** is an open-source project that aims to rethink how developers manage tasks and workflows in their projects. Unlike traditional solutions such as Makefiles or npm scripts, **bab** focuses on simplicity, clarity, and minimal dependencies, making automation accessible to everyone.
 
-## 🚀 Features
+## 🌱 Project Philosophy
 
-- **Dependency-free**: No external dependencies required.
-- **Easy to use**: Intuitive syntax for defining tasks.
-- **Powerful**: Scales from simple scripts to complex workflows.
-- **Cross-platform**: Works on all major operating systems.
+The core idea behind **bab** is to provide a lightweight, intuitive tool that helps developers focus on what matters: writing code and automating repetitive tasks without the overhead of complex configuration or external dependencies. 
 
-## 📦 Installation
+- **Simplicity over complexity**: Automate tasks with minimal setup.
+- **Universal workflows**: Works for small scripts and large-scale projects alike.
+- **Readable configuration**: Task definitions are straightforward and easy to understand.
 
-### Using Homebrew (macOS/Linux)
+## 🛠️ Motivation
+
+Managing project workflows can be cumbersome. Developers often face:
+
+- Bloated task runners with unnecessary dependencies.
+- Confusing configuration files.
+- Difficulty in sharing scripts across different operating systems.
+
+**bab** addresses these issues by offering a **single, unified solution** that is lightweight, cross-platform, and easy to maintain.
+
+## 📖 Getting Started
+
+To use **bab**, create a `Babfile` in your project directory and define your tasks:
+
 ```bash
-brew install bab-sh/tap/bab
-``
-### Using Scoop (Windows)
-```bash
-scoop bucket add bab-sh https://github.com/bab-sh/scoop-bucket.git
-scoop install bab
-
-Manual Installation
-
-Download the latest version from bab.sh
-
-and follow the installation instructions.
-🧪 Getting Started
-
-Create a file named Babfile in your project directory and define your tasks:
-
 task default:
   echo "Hello, World!"
-
-Run your task:
-
-bab
-
-📚 More Information
-
-For detailed guides and examples, visit the official website
-or the GitHub repository
-
-.
-🧾 License
-
-This project is licensed under the MIT License.
