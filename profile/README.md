@@ -1,29 +1,50 @@
-# bab – A Minimalist, Dependency-Free Task Runner
+<div align="center">
 
-**bab** is an open-source project that aims to rethink how developers manage tasks and workflows in their projects. Unlike traditional solutions such as Makefiles or npm scripts, **bab** focuses on simplicity, clarity, and minimal dependencies, making automation accessible to everyone.
+<img src="https://cdn.bab.sh/l/favicon" alt="Bab Logo" width="120"/>
 
-## 🌱 Project Philosophy
+<h1>bab-sh</h1>
 
-The core idea behind **bab** is to provide a lightweight, intuitive tool that helps developers focus on what matters: writing code and automating repetitive tasks without the overhead of complex configuration or external dependencies. 
+**Building developer tools that just work**
 
-- **Simplicity over complexity**: Automate tasks with minimal setup.
-- **Universal workflows**: Works for small scripts and large-scale projects alike.
-- **Readable configuration**: Task definitions are straightforward and easy to understand.
+[![Website](https://img.shields.io/badge/bab.sh-000000?style=for-the-badge&logo=safari&logoColor=white)](https://bab.sh)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bab.sh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bab42821558638)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/babshdev)
 
-## 🛠️ Motivation
+</div>
 
-Managing project workflows can be cumbersome. Developers often face:
+### 📢 Latest
 
-- Bloated task runners with unnecessary dependencies.
-- Confusing configuration files.
-- Difficulty in sharing scripts across different operating systems.
+> [!NOTE]
+> 🚀 **Bab Pre-Alpha is here!** Join our [Discord](https://discord.bab.sh) to shape the future of task runners.
 
-**bab** addresses these issues by offering a **single, unified solution** that is lightweight, cross-platform, and easy to maintain.
+---
 
-## 📖 Getting Started
+### 👥 Team
 
-To use **bab**, create a `Babfile` in your project directory and define your tasks:
+<div align="center">
 
-```bash
-task default:
-  echo "Hello, World!"
+| <a href="https://github.com/aiomayo"><img src="https://avatars.githubusercontent.com/u/69240351" width="100" alt="AIO"/></a> | <a href="https://github.com/robin-engels"><img src="https://avatars.githubusercontent.com/u/103217628" width="100" alt="Robin"/></a> |
+|:---:|:---:|
+| **[AIO](https://github.com/aiomayo)** | **[Robin](https://github.com/robin-engels)** |
+| *Lead Developer* | *Developer* |
+
+</div>
+
+---
+
+### 🔗 Links
+
+<div align="center">
+
+[**Website**](https://bab.sh) • [**Docs**](https://docs.bab.sh) • [**Blog**](https://blog.bab.sh) • [**Discord**](https://discord.bab.sh)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Developer tools, but easy.</sub>
+
+</div>
